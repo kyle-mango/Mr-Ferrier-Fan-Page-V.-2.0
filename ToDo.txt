@@ -1,4 +1,5 @@
 Fix For Mobile
+Bigger Text size based on size of monitor
 Remove Embeded Rickroll as file is too large
 Remove unused Scripts
 Fix Birthday Countdown
