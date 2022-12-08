@@ -1,0 +1,12 @@
+Fix For Mobile
+Remove Embeded Rickroll as file is too large
+Remove unused Scripts
+Fix Birthday Countdown
+Make a Dark Mode Toggle
+   - Light
+      White Background and Black Borders
+   - Dark
+      Black Background and Grey Borders
+Fix Rickroll count
+
+*** KEEP SECRET UNTIL WEBSITE IS READY ***
