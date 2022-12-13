@@ -39,42 +39,6 @@ img {
 img:hover {
   -webkit-transform: scale(1.5, 1.5);
 }
-button{
-  background-color: #43B3CF;
-  color: #9037b9;
-  text-decoration: none;
-  font-weight: 600;
-  text-shadow: none;
-  padding: 2px 2px;
-  outline: none;
-}
-.button:hover {
-  background: none;
-  color: #1f1f1f;
-  text-decoration: none;
-  font-weight: 600;
-  text-shadow: none;
-  padding: 2px 2px;
-  outline: none;
-}
-.button:visited {
-  background: transparent;
-  color: #1f1f1f;
-  text-decoration: none;
-  font-weight: 600;
-  text-shadow: none;
-  padding: 2px 2px;
-  outline: none;
-}
-.button:link {
-  background: transparent;
-  color: #1f1f1f;
-  text-decoration: none;
-  font-weight: 600;
-  text-shadow: none;
-  padding: 2px 2px;
-  outline: none;
-}
 a{
   text-decoration: none;
   background: transparent;
